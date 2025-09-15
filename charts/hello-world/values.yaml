@@ -27,7 +27,6 @@ configmaps:
     BBB: bbb
     JJJ: jjj
     NAME: devx-service-ai
-    XYZ: trigger
 
 service:
   type: ClusterIP
