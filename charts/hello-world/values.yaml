@@ -28,7 +28,7 @@ configmaps:
     JJJ: jjj
     NAME: devx-service-ai
     XYZ: trigger
-    test: okiedokiepokie
+    test: okiedokie
 
 service:
   type: ClusterIP
