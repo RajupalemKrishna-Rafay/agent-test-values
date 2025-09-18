@@ -33,7 +33,7 @@ app:
       ABC: triggerzzzaaabbbccc
       AA: AA
       BB: BB
-      CC: cc
+      CC: cccc
 
     jira:
       JIRA_AUTH_EMAIL: "us_svc_devops_prod@cbre.com"
