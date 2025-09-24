@@ -29,7 +29,7 @@ configmaps:
     NAME: devx-service-ai
     XYZ: trigger
     test: okiedokiepokiewokie'
-    test2: ok
+    test2: okie
 
 service:
   type: ClusterIP
