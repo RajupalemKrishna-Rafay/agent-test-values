@@ -25,7 +25,7 @@ app:
     maxReplicas: 3
     targetCPUUtilizationPercentage: 80
     targetMemoryUtilizationPercentage: 80
-  replicas: 3
+  replicas: 2
   configmaps:
     self:
       NAME: "sdlc-agents"
